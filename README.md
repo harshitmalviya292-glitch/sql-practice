@@ -1,6 +1,6 @@
 # SQL Practice
 
-This repository contains my SQL and MySQL practice work as part of my BCA journey.
+This repository contains my SQL and MySQL practice work as part of my BCA journey from Amity unversity online
 
 ## Topics Covered
 - Database Creation
