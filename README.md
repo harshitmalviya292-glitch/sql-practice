@@ -5,7 +5,7 @@ This repository contains my SQL and MySQL practice work as part of my BCA journe
 ## Topics Covered
 - Database Creation
 - Tables
-- CRUD Operations
+- 
 - SELECT Queries
 - WHERE Clause
 - ORDER BY
